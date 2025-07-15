@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Alina 👋🏻 💻  
 
-<!--
-**avlh/avlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://your-domain.com/banner.png" alt="banner that says Alina Hats - Full Stack Web Developer alongside a cartoon illustration of Alina">  
 
-Here are some ideas to get you started:
+I'm a **Full Stack Web Developer** passionate about building modern, scalable web applications, exploring new technologies, and contributing to developer communities. I enjoy working with **Php, Node.js, Jamstack (JavaScript, APIs + Markup), and Wordpress,**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I create content to help others grow in tech and love collaborating on open-source projects.  
+
+---
+
+## Find me around the web 🌐  
+<a href="https://github.com/sponsors/yourusername"><img align="right" width="150" height="150" src="https://your-domain.com/octocat.gif"></a>  
+
+- Writing about coding on [your blog](https://yourblog.com) ✍🏻  
+- Sharing insights on [LinkedIn](https://linkedin.com/in/yourusername) 💼  
+- Building projects on [CodePen](https://codepen.io/yourusername) 🏓  
+- Streaming live coding on [Twitch](https://twitch.tv/yourusername) 📹  
+
+---
+
+⭐ *Let’s build something amazing together!* ⭐
