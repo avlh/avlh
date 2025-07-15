@@ -9,7 +9,7 @@ In my spare time, I create content to help others grow in tech and love collabor
 ---
 
 ## Find me around the web 🌐  
-<a href="https://github.com/sponsors/yourusername"><img align="right" width="150" height="150" src="https://your-domain.com/octocat.gif"></a>  
+<a href="https://github.com/sponsors/yourusername"><img align="right" width="150" height="150" src="https://github.com/avlh/avlh/blob/main/cat.png?raw=true"></a>  
 
 - Upwork (https://www.upwork.com/freelancers/~01f38a89ba12fe3464?mp_source=share) ✍🏻  
 - Sharing insights on [LinkedIn](https://www.linkedin.com/in/alina-h-808a6423a/) 💼  
