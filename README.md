@@ -1,6 +1,6 @@
 # Hi, I'm Alina 👋🏻 💻  
 
-<img src="https://your-domain.com/banner.png" alt="banner that says Alina Hats - Full Stack Web Developer alongside a cartoon illustration of Alina">  
+<img src="https://github.com/user-attachments/assets/c907310c-ea93-4b97-b29e-fe2ac474a62b" alt="banner that says Alina Hats - Full Stack Web Developer alongside a cartoon illustration of Alina">  
 
 I'm a **Full Stack Web Developer** passionate about building modern, scalable web applications, exploring new technologies, and contributing to developer communities. I enjoy working with **Php, Node.js, Jamstack (JavaScript, APIs + Markup), and Wordpress,**.  
 
